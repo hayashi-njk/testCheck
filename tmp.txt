@@ -1,1 +1,3 @@
 check false
+
+check true
